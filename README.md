@@ -8,8 +8,8 @@ Ideally, May is the best month to launch a theater productions as 66% were succe
 Most successful US plays had fundrasing goals between $1,500 and $5,000. 
 Most failed US plays had fundrasing goals over $5,000. 
 
-![Musicals](path/to/Musicals.png) 
-50% of Great Britain musicals had fundraising goals between $538 and $5,625, however 50% of musicals only raised between $28 and $1,496 with the very top musical only raising $3,015. If you write a musical in Great Britain I would recommend a budget of no more than $1,496. 
+![Musicals](https://user-images.githubusercontent.com/84742544/123641922-c1e40080-d7f0-11eb-845b-8a981af345b3.png)
+The middle 50% of Great Britain musicals had fundraising goals between $538 and $5,625, however the middle 50% of musicals only raised between $28 and $1,496 with the #1 top musical only raising $3,015. If you write a musical in Great Britain I would recommend a budget of no more than $1,496. 
 
 
-I would recommend writing a US play with a launch date in May, a fundraising goal of approximately $3,000. 
+Based on my analysis of the kickstarter campaigns, I would recommend writing a US play with a launch date in May and a fundraising goal of approximately $3,000. 
