@@ -75,7 +75,7 @@ Most failed US plays had fundrasing goals over $5,000.
 The middle 50% of Great Britain musicals had fundraising goals between $538 and $5,625, however the middle 50% of musicals only raised between $28 and $1,496 with the #1 top musical only raising $3,015. If you write a musical in Great Britain I would recommend a budget of no more than $1,496. 
 
 
-##Final Recommendations:
+## Final Recommendations:
 Based on my analysis of the kickstarter campaigns, I would recommend writing a US play with a launch date in May and a fundraising goal of approximately $3,000. 
 
 
