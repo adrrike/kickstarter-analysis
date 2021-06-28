@@ -10,7 +10,7 @@ Louise is an inspiring playwright who is interested in finding out how different
 
 ### Analysis of Outcomes Based on Launch Date
 
-!Insert chart
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84742544/123671616-79d2d700-d80c-11eb-90c1-646d3698acb1.png)
 
 Theater productions launched in May have the most success. 
 
@@ -18,7 +18,7 @@ Theater productions launched in December have the worst chance of success.
 
 ### Analysis of Outcomes Based on Goals
 
-!screenshot of chart
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84742544/123671610-78091380-d80c-11eb-831b-fb235f3346a8.png)
 
 Plays with the fundraising goals under $1000 have the most success(76%) in reaching their goals. 
 
@@ -58,7 +58,7 @@ A clustered column chart would be another good visualization for looking at Outc
 
 
 
-### Kickstarter Analysis
+# Kickstarter Analysis
 
 Performed a statistical analysis on Kickstarter data to uncover trends for an aspiring playwright. 
 
@@ -75,7 +75,7 @@ Most failed US plays had fundrasing goals over $5,000.
 The middle 50% of Great Britain musicals had fundraising goals between $538 and $5,625, however the middle 50% of musicals only raised between $28 and $1,496 with the #1 top musical only raising $3,015. If you write a musical in Great Britain I would recommend a budget of no more than $1,496. 
 
 
-Final Recommendations:
+##Final Recommendations:
 Based on my analysis of the kickstarter campaigns, I would recommend writing a US play with a launch date in May and a fundraising goal of approximately $3,000. 
 
 
