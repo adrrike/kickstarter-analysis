@@ -28,7 +28,7 @@ The chance of successfully meeting the fund raising goal drops by 18% once the g
 
 ### Challenges and Difficulties Encountered
 
-!screenshot of chart
+![Theater_Outcomes_chart](https://user-images.githubusercontent.com/84742544/123672116-ff568700-d80c-11eb-866a-a9436f0e1ac5.PNG)
 
 Theater Outcomes by Launch Date graph is only numerical values, without looking at percentage it's difficult to identify the most chance of success by month. 
 
