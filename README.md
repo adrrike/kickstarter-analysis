@@ -1,7 +1,7 @@
 # An Analysis of kickstarter campaigns
 Performed a statistical analysis on Kickstarter data to uncover trends for an aspiring playwright. 
 
-![Line_Chart](path/to/Line_Chart.png)
+![Line Chart](https://user-images.githubusercontent.com/84742544/123641801-a678f580-d7f0-11eb-82fc-d70e5f0a6bc0.png)
 Most successful theater productions launched in the early summer (May/June/July).
 Ideally, May is the best month to launch a theater productions as 66% were successful. 
 
